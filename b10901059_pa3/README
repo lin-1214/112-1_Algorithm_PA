@@ -1,0 +1,28 @@
+This is README file for Algorithm PA#3
+Author: b10901059
+Date: 12/30
+=====
+SYNOPSIS:
+
+./bin/cb <input_file_name> <output_file_name>
+
+DIRECTORY:
+
+bin/ executable binary
+doc/ reports
+src/ source C++ codes & header files
+makefile
+README
+======
+HOW TO CIMPILE:
+
+Then compile the demo, simply follow the following steps
+make clean
+make
+======
+HOW TO RUN:
+
+    under b10901059_pa3
+    ./bin/cb <input_file_name> <output_file_name>
+
+OTHER NOTICE:
